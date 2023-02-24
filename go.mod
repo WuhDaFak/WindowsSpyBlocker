@@ -9,7 +9,7 @@ require (
 	github.com/cavaliercoder/grab v1.0.0
 	github.com/cevaris/ordered_map v0.0.0-20190319150403-3adeae072e73
 	github.com/djherbis/times v1.2.0 // indirect
-	github.com/go-ole/go-ole v0.0.0-20170209151332-de8695c8edbf
+	github.com/go-ole/go-ole v1.2.6
 	github.com/hako/durafmt v0.0.0-20180520121703-7b7ae1e72ead
 	github.com/josephspurrier/goversioninfo v1.2.0
 	github.com/kevinburke/go-bindata v3.21.0+incompatible
